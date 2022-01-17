@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Welcome to the CSE 115A Calendar
 
-You can use the [editor on GitHub](https://github.com/hamorrar/cse115a-calendar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Contributions
+- Please [fork the repo](https://github.com/hamorrar/cse115a-calendar) and open a Pull Request with your changes to contribute. I will review them as soon as I can.
+- You can update the calendar or add class notes, lecture summaries, or list helpful resources in [notes.md](/notes.md)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Calendar
 
-### Markdown
+## Week 2
+### January 10, 2022
+- Lecture: Scrum Release Planning
+- Project: plan project, set up tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### January 11, 2022
+- Project: Release Plan due (push to repo)
 
-```markdown
-Syntax highlighted code block
+### January 12, 2022
+- Lecture: Scrum Spring Planning
+- Project: Sprint 1 plan due, start Sprint 1
 
-# Header 1
-## Header 2
-### Header 3
+### January 13, 2022
+- RAC: RAC 1 submission due on Crowdgrader
 
-- Bulleted
-- List
+### January 14, 2022
+- Lecture: Scrum Spring Execution, Team Status Report (TSR), Initial Presentation Content
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## Week 3
+### January 18, 2022
+- RAC: RAC 1 reviews due on Crowdgrader
+- Project: TSR 1 due on GrepThink
 
-[Link](url) and ![Image](src)
-```
+### January 19, 2022
+- Lecture: Presentations
+- RAC: RAC 2 assigned
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### January 20, 2022
 
-### Jekyll Themes
+### January 21, 2022
+- Lecture: Presentations
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hamorrar/cse115a-calendar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
