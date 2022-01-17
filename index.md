@@ -32,12 +32,12 @@
 - Project: TSR 1 due on GrepThink
 
 ### January 19, 2022
-- Lecture: Presentations
+- Lecture: Presentations (Attendance Mandatory!)
 - RAC: RAC 2 assigned
 
 ### January 20, 2022
 
 ### January 21, 2022
-- Lecture: Presentations
+- Lecture: Presentations (Attendance Mandatory!)
 
 ---
