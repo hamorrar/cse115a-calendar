@@ -41,3 +41,22 @@
 - Lecture: Presentations (Attendance Mandatory!)
 
 ---
+
+## Week 4
+### January 24, 2022
+- Lecture: Presentations (Attendance Mandatory!), Sprint Reviews
+
+### January 25, 2022
+- Project: Sprint 1 END, Spring 1 Report due, TSR 2 due
+
+### January 26, 2022
+- Lecture: Presentations (Attendance Mandatory!)
+- Project: Sprint 2 START, Sprint 2 plan due
+
+### January 27, 2022
+- RAC: RAC 2 due on Crowdgrader
+
+### January 28, 2022
+- Lecture: **EXAM 1**
+
+---
