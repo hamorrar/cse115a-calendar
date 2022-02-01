@@ -47,7 +47,7 @@
 - Lecture: Presentations (Attendance Mandatory!), Sprint Reviews
 
 ### January 25, 2022
-- Project: Sprint 1 END, Spring 1 Report due, TSR 2 due
+- Project: Sprint 1 END, Sprint 1 Report due, TSR 2 due
 
 ### January 26, 2022
 - Lecture: Presentations (Attendance Mandatory!)
@@ -60,3 +60,20 @@
 - Lecture: **EXAM 1**
 
 ---
+
+## Week 5
+### January 31, 2022
+- Lecture: Agile Clean Code
+
+### February 1, 2022
+- RAC: RAC 2 reviews due
+- Project: TSR 3 due
+
+### February 2, 2022
+- Lecture: Agile Clean Code
+- RAC: RAC 3 Assigned
+
+### February 3, 2022
+
+### February 4, 2022
+- Lecture: Agile Simple Design
